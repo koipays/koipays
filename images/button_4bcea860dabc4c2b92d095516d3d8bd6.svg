@@ -1,0 +1,15 @@
+<svg id="button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe259"/>
+      <stop offset="1" stop-color="#ffa751"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_22" data-name="Ellipse 22" cx="45" cy="45" r="45" fill="url(#linear-gradient)"/>
+  <g id="Group_138" data-name="Group 138" transform="translate(14.403 25.21)">
+    <path id="Path_40" data-name="Path 40" d="M1282.764,577h-36.792A11.973,11.973,0,0,0,1234,588.973V606.33a11.973,11.973,0,0,0,11.973,11.973h36.792a11.973,11.973,0,0,0,11.973-11.973V588.973A11.972,11.972,0,0,0,1282.764,577Zm5.69,29.33a5.7,5.7,0,0,1-5.69,5.69h-36.792a5.7,5.7,0,0,1-5.691-5.69V588.973a5.7,5.7,0,0,1,5.69-5.69h36.792a5.7,5.7,0,0,1,5.69,5.69Z" transform="translate(-1233.999 -577)" fill="#fff"/>
+    <path id="Path_41" data-name="Path 41" d="M1258.241,605.667a3.241,3.241,0,1,0,3.241,3.241,3.242,3.242,0,0,0-3.241-3.241Z" transform="translate(-1242.243 -588.254)" fill="#fff"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="3.239" cy="3.239" r="3.239" transform="translate(27.132 17.411)" fill="#fff"/>
+    <path id="Path_42" data-name="Path 42" d="M1305.571,605.667a3.241,3.241,0,1,0,3.242,3.241,3.241,3.241,0,0,0-3.242-3.241Z" transform="translate(-1260.829 -588.254)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="238.418" height="400" viewBox="0 0 238.418 400">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_259" data-name="Rectangle 259" width="238.418" height="400" transform="translate(1 4568.059)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="developer-plugin" transform="translate(-1 -4568.059)" clip-path="url(#clip-path)">
+    <g id="code" transform="translate(-180.176 4581.053)">
+      <path id="Path_806" data-name="Path 806" d="M340.308,353.319H44.04A44.076,44.076,0,0,1,0,309.279V45.04A44.077,44.077,0,0,1,44.04,1H340.308a44.076,44.076,0,0,1,44.04,44.04V309.279A44.076,44.076,0,0,1,340.308,353.319ZM44.04,25.022A20.046,20.046,0,0,0,24.022,45.04V309.279A20.046,20.046,0,0,0,44.04,329.3H340.308a20.046,20.046,0,0,0,20.018-20.018V45.04a20.046,20.046,0,0,0-20.018-20.018Z" transform="translate(0 -1)" fill="#183963"/>
+      <path id="Path_807" data-name="Path 807" d="M372.337,28.522H12.011a12.011,12.011,0,0,1,0-24.022H372.337a12.011,12.011,0,0,1,0,24.022Z" transform="translate(0 51.551)" fill="#183963"/>
+      <path id="Path_808" data-name="Path 808" d="M120.9,196.278l-47.29,47.29,47.29,47.289,13.511-13.511-33.779-33.778,33.779-33.779Z" transform="translate(2.506 -43.988)" fill="#183963"/>
+      <path id="Path_809" data-name="Path 809" d="M342.858,209.789l33.779,33.779-33.779,33.778,13.511,13.511,47.29-47.289-47.29-47.29Z" transform="translate(-95.251 -43.988)" fill="#183963"/>
+      <path id="Path_810" data-name="Path 810" d="M0,0H87.633V19.108H0Z" transform="translate(161.586 230.214) rotate(-59.076)" fill="#183963"/>
+    </g>
+  </g>
+</svg>

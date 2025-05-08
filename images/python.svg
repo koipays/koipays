@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="120" viewBox="0 0 200 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-16.067" y1="7.261" x2="-16.066" y2="7.261" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-16.419" y1="6.926" x2="-16.418" y2="6.926" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+  </defs>
+  <g id="python" transform="translate(-1308 -1494)">
+    <rect id="Rectangle_286" data-name="Rectangle 286" width="200" height="120" transform="translate(1308 1494)" fill="none"/>
+    <g id="Group_86" data-name="Group 86" transform="translate(-174.163 1112.219)">
+      <path id="Path_840" data-name="Path 840" d="M1581.781,389c-26.938,0-25.256,11.682-25.256,11.682l.03,12.1h25.707v3.633h-35.917s-17.237-1.955-17.237,25.226,15.045,26.217,15.045,26.217h8.979V455.248s-.484-15.045,14.805-15.045h25.5s14.325.231,14.325-13.845V403.085S1609.934,389,1581.781,389Zm-14.175,8.139a4.621,4.621,0,0,1,4.625,4.617v.008a4.621,4.621,0,0,1-4.617,4.624h-.008a4.621,4.621,0,0,1-4.625-4.616v-.008a4.621,4.621,0,0,1,4.617-4.625Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="Path_841" data-name="Path 841" d="M1588.25,500.115c26.938,0,25.256-11.682,25.256-11.682l-.03-12.1H1587.77V472.7h35.917s17.237,1.955,17.237-25.226-15.045-26.217-15.045-26.217H1616.9v12.613s.484,15.045-14.805,15.045h-25.5s-14.325-.232-14.325,13.845V486.03s-2.175,14.084,25.977,14.084Zm14.175-8.138a4.62,4.62,0,0,1-4.624-4.617v-.008a4.62,4.62,0,0,1,4.616-4.625h.008a4.621,4.621,0,0,1,4.625,4.617v.008a4.619,4.619,0,0,1-4.616,4.624h-.009Z" transform="translate(-5.705 -5.553)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
